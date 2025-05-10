@@ -1,0 +1,29 @@
+{
+  "name": "visual-duck",
+  "version": "1.2.0",
+  "description": "A visual DuckDB client built with Next.js",
+  "author": "Your Name or Company",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^3.16.1",
+    "@duckdb/node-api": "^1.2.2-alpha.18",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "chart.js": "^4.4.9",
+    "formidable": "^3.5.4",
+    "framer-motion": "^12.9.2",
+    "next": "^14.0.0",
+    "react": "^18.0.0",
+    "react-chartjs-2": "^5.3.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.0",
+    "@types/react": "^18.0.0",
+    "typescript": "^5.0.0"
+  }
+}
