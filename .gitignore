@@ -5,7 +5,6 @@ dist/
 build/
 renderer/
 app/
-data/
 
 # Node.js
 node_modules/
